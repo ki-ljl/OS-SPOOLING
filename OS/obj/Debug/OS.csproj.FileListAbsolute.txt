@@ -1,0 +1,13 @@
+E:\大三下\操作系统\OS\OS\bin\Debug\OS.exe.config
+E:\大三下\操作系统\OS\OS\bin\Debug\OS.exe
+E:\大三下\操作系统\OS\OS\bin\Debug\OS.pdb
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.csprojAssemblyReference.cache
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.Properties.Resources.resources
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.csproj.GenerateResource.cache
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.csproj.CoreCompileInputs.cache
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.exe
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.pdb
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.Form1.resources
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.Form2.resources
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.Form3.resources
+E:\大三下\操作系统\OS\OS\obj\Debug\OS.OS_CD.resources
